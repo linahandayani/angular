@@ -1,0 +1,4 @@
+
+<!-- http://moduscreate.com/custom-components-in-nativescript/ -->
+
+<Label class="dashboard-component" loaded="onLoaded" text="Dashboard Component!"/>
